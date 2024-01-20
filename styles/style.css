@@ -150,7 +150,7 @@ header {
 }
 
 .header {
-    max-width: 1430px;
+    max-width: 1440px;
     height: 91px;
     padding-top: 6px;
     display: flex;
@@ -166,13 +166,13 @@ header {
     display: block;
     background-image: url(../images/logo\ \(2\).svg);
     background-repeat: no-repeat;
-    margin-left: 28px;
+    margin-left: 37px;
 }
 
 .header__list {
-    margin-left: 140px;
+    margin-left: 133px;
     display: flex;
-    gap: 76px;
+    gap: 76.5px;
 }
 
 .header__navigation{
@@ -196,13 +196,13 @@ header {
 }
 
 .header__login {
-    margin-right: 37px;
+    margin-right: 42px;
     padding: 15px 62px 17px 62px;
     background-color: #fff;
     text-align: center;
     border-radius: 200px;
     color: #E43071;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .banner {
@@ -258,8 +258,8 @@ header {
 
 .banner__list {
     position: absolute;
-    top: 644.5px;
-    left: 670px;
+    top: 645.5px;
+    left: 671px;
     width: 97px;
     height: 17px;
     display: flex;
@@ -450,7 +450,7 @@ header {
 }
 
 .premium__title {
-    margin: 106px 0 0 0;
+    margin: 107px 0 0 0;
     color: #E43071;
     font-family: 'Poppins', sans-serif;
     font-size: 40px;
@@ -519,8 +519,8 @@ header {
     position: absolute;
     max-width: 414px;
     height: 153px;
-    top: 125px;
-    left: 253px;
+    top: 127px;
+    left: 254px;
     display: flex;
     flex-direction: column;
 }
@@ -560,7 +560,7 @@ header {
 
 .stories__card3-title {
     position: absolute;
-    top: 35px;
+    top: 38px;
     left: 27px;
     color: #E43071;
     font-family: 'Poppins', sans-serif;
@@ -571,7 +571,7 @@ header {
 
 .stories__card3-quotes {
     position: absolute;
-    top: 94px;
+    top: 97px;
     left: 27px;
     width: 29px;
     height: 67px;
@@ -585,7 +585,7 @@ header {
 
 .stories__card3-text {
     position: absolute;
-    top: 107px;
+    top: 109px;
     left: 64px;
     width: 253px;
     height: 242px;
@@ -599,7 +599,7 @@ header {
 
 .stories__card3-user3 {
     position: absolute;
-    top: 348px;
+    top: 350px;
     left: 65px;
     width: 236px;
     height: 57px;
@@ -650,7 +650,7 @@ header {
 }
 
 .stories__card17-title {
-    margin: 0 0 0 6px;
+    margin: 0 0 0 7px;
     color: #E43071;
     font-family: Poppins;
     font-size: 38px;
@@ -668,7 +668,7 @@ header {
 }
 
 .stories__card17-quotes {
-    margin-top: 1px;
+    margin-top: 2px;
     width: 29px;
     height: 67px;
     color: #F8C5D7;
@@ -679,7 +679,7 @@ header {
 }
 
 .stories__card17-text {
-    margin: 14px 0 0 7px;
+    margin: 17px 0 0 7px;
     color: #424242;
     font-family: Poppins;
     font-size: 18px;
@@ -738,7 +738,7 @@ header {
 }
 
 .stories__card43-title {
-    margin: 0 0 0 7px;
+    margin: 2px 0 0 7px;
     color: #E43071;
     font-family: Poppins;
     font-size: 38px;
@@ -768,7 +768,7 @@ header {
 }
 
 .stories__card43-text {
-    margin: 14px 0 0 7px;
+    margin: 15px 0 0 7px;
     color: #424242;
     font-family: Poppins;
     font-size: 18px;
@@ -861,7 +861,7 @@ header {
 }
 
 .mobile__platform {
-    margin-top: 7px;
+    margin-top: 10px;
     width: 282px;
     height: 40px;
     display: flex;
@@ -904,7 +904,7 @@ header {
 }
 
 .social__content {
-    margin: 59px 470px 71px 470px;
+    margin: 60px 470px 71px 472px;
     width: 510px;
     height: 188px;
     display: flex;
@@ -1035,7 +1035,7 @@ header {
 
 
 .footer__quick {
-    margin-left: 40px;
+    margin-left: 41px;
     width: 245px;
     height: 222px;
     display: flex;
@@ -1079,7 +1079,7 @@ header {
 
 
 .footer__reach {
-    margin-left: 33px;
+    margin-left: 32px;
     width: 245px;
     height: 196px;
     display: flex;
